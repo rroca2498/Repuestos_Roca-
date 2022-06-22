@@ -45,4 +45,4 @@ Este agregado seria para el index (si es que no queda supercargado), para nosotr
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-~~ Prueba de tachado ~~s
+~~ Prueba de tachado ~~
