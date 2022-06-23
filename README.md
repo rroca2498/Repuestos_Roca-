@@ -8,11 +8,11 @@ Hay que juntar todos los @medias separados por paginas, para poder verlos mejor
 
 Estos son los que tiene cada uno:
 
-Header: 2157 1217 940 680
+Header: ~~2157~~ ~~1217~~ 940 680
 
 Footer: 1217 940 533
 
-Index: 2157 1217 940
+Index: ~~2157~~ ~~1217~~ 940
 
 Nosotros: 2074 1800 1400 1100 900 550
 
